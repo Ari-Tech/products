@@ -3,3 +3,10 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+.tdred{
+  color:red;
+}
+.basetable{
+  margin-left:10px;
+  margin-top:20px;
+}
